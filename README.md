@@ -1,1 +1,1 @@
-# Programacion-en-Pararelo
+# Programacion-en-Paralelo
